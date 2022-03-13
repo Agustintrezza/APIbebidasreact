@@ -1,2 +1,4 @@
 # APIbebidasreact
-React, Node. Utilizando API thecocktaildb
+Node con express y React para frontend. Utilizando API thecocktaildb.
+
+https://reactragosapi.netlify.app/
